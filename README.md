@@ -1,2 +1,2 @@
 # js-practice
-javascriptの学習
+javascriptの検証など
