@@ -4,10 +4,6 @@ body {
   padding: 2em;
 }
 
-h1 {
-  margin-bottom: 0.5em;
-}
-
 .note {
   font-size: 14px;
   color: #555;
@@ -25,7 +21,6 @@ input {
 ul {
   list-style: none;
   padding: 0;
-  margin-bottom: 1em;
 }
 
 li {
@@ -36,12 +31,11 @@ li {
 }
 
 #pagination {
+  margin-top: 1em;
   text-align: center;
 }
 
 #pagination button {
   margin: 0 5px;
   padding: 5px 10px;
-  font-size: 14px;
-  cursor: pointer;
 }
