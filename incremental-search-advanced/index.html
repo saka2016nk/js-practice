@@ -2,13 +2,18 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
-  <title>インクリメンタルサーチ（応用）</title>
+  <title>商品検索（インクリメンタル＋ページング）</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>商品検索（応用版）</h1>
-  <input type="text" id="searchInput" placeholder="商品名を入力（例：ミ・み・michelin）" />
-  <ul id="suggestList"></ul>
+  <h1>商品検索</h1>
+  <p class="note">
+    この検索欄はインクリメンタルサーチです。キーワードを入力するとリアルタイムで検索結果が絞り込まれます。<br>
+    商品が20件を超える場合は、ページ切り替えで表示できます。
+  </p>
+  <input type="text" id="searchInput" placeholder="メーカー名、商品名、サイズで検索" />
+  <ul id="productList"></ul>
+  <div id="pagination"></div>
 
   <script src="script.js"></script>
 </body>
