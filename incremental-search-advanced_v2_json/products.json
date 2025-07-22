@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ブリヂストン",
+    "keywords": ["ブリヂストン", "ぶりぢすとん", "bridgestone"]
+  },
+  {
+    "name": "ミシュラン",
+    "keywords": ["ミシュラン", "みしゅらん", "michelin"]
+  },
+  {
+    "name": "ヨコハマ",
+    "keywords": ["ヨコハマ", "よこはま", "yokohama"]
+  },
+  {
+    "name": "トーヨー",
+    "keywords": ["トーヨー", "とーよー", "toyo"]
+  },
+  {
+    "name": "ダンロップ",
+    "keywords": ["ダンロップ", "だんろっぷ", "dunlop"]
+  }
+]
