@@ -1,0 +1,24 @@
+body {
+  font-family: sans-serif;
+  padding: 1em;
+  background: #f8f8f8;
+}
+
+input {
+  width: 300px;
+  padding: 8px;
+  font-size: 16px;
+}
+
+ul {
+  margin-top: 10px;
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: white;
+  margin: 4px 0;
+  padding: 6px;
+  border: 1px solid #ccc;
+}
